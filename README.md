@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/teamacapstone2015/pythontests.png?branch=master)](https://travis-ci.org/teamacapstone2015/pythontests)
+[![Build Status](https://travis-ci.org/TeamACapstone2015/pythontests.png?branch=master)](https://travis-ci.org/TeamACapstone2015/pythontests)
 
 # How to download the source
 
