@@ -42,3 +42,7 @@ git commit -m "your commit message"
 ```sh
 git push
 ```
+
+# View the tests on Travis CI
+
+https://travis-ci.org/TeamACapstone2015/pythontests
