@@ -15,4 +15,4 @@ class tests(unittest.TestCase):
         self.assertEqual(1, 1)
 
     def test_lowercase(self):
-				self.assertTrue('asasha'.islower())
+        self.assertTrue('asasha'.islower())
