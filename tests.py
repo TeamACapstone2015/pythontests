@@ -13,3 +13,6 @@ class tests(unittest.TestCase):
 
     def test_fail(self):
         self.assertEqual(1, 1)
+
+		def test_lowercase(self):
+				self.assertTrue('asasha'.islower())
