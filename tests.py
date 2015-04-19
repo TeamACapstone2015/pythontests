@@ -16,3 +16,7 @@ class tests(unittest.TestCase):
 
     def test_lowercase(self):
         self.assertTrue('asasha'.islower())
+		
+		self.assertGreater(2, 1)
+		
+		self.assertGreater(1, 1)
