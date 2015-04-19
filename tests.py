@@ -21,4 +21,4 @@ class tests(unittest.TestCase):
 		self.assertGreater(2, 1)
 
 	def test_fail2(self):
-		self.assertGreater(1, 1)
+		self.assertGreater(5, 1)
