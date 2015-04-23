@@ -6,3 +6,5 @@ python:
   - "3.4"
 # command to run tests
 script: nosetests
+notifications:
+    slack: teamacapstone2015:gigQN0PYFD1JiC8I4jOMo5hj
