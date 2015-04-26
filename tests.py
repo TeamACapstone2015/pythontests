@@ -12,7 +12,7 @@ class tests(unittest.TestCase):
 		self.assertEqual(1, 1)
 
         def test_pass4(self):
-                self.assertEqual(True, True)
+                self.assertEqual(2, 2)
 
 	def test_fail(self):
 		self.assertEqual(1, 1)
